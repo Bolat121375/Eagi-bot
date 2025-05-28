@@ -1,4 +1,6 @@
-aiogram
+aiogram==2.25.2
+python-dotenv
+openai
 aiofiles
 openai
 python-dotenv
